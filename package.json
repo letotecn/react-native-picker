@@ -1,31 +1,27 @@
 {
-  "_args": [
-    [
-      "react-native-letote-picker@4.5.0",
-      "/Users/lavin/Documents/lt/app"
-    ]
-  ],
-  "_from": "react-native-letote-picker@4.5.0",
-  "_id": "react-native-letote-picker@4.5.0",
+  "_from": "react-native-letote-picker@4.6.0",
+  "_id": "react-native-letote-picker@4.6.0",
   "_inBundle": false,
-  "_integrity": "sha512-uvRNpRGkbknLNOyS9OWfFfllLEEAUGnAyMBR/Oj7dQPd6k/KqUxtoHC/Wuc3ambRgq4jwWvC9YypSa1pMokXSg==",
+  "_integrity": "sha512-s3cJwBazDReop6Wtl3W4amUaXo31ohgh0d9G6wAxCmaweAisOGDClC0A4CNv0sv2+UDJnrn3n2Js4mhYG+ensw==",
   "_location": "/react-native-letote-picker",
   "_phantomChildren": {},
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "react-native-letote-picker@4.5.0",
+    "raw": "react-native-letote-picker@4.6.0",
     "name": "react-native-letote-picker",
     "escapedName": "react-native-letote-picker",
-    "rawSpec": "4.5.0",
+    "rawSpec": "4.6.0",
     "saveSpec": null,
-    "fetchSpec": "4.5.0"
+    "fetchSpec": "4.6.0"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-letote-picker/-/react-native-letote-picker-4.5.0.tgz",
-  "_spec": "4.5.0",
+  "_resolved": "https://registry.npmjs.org/react-native-letote-picker/-/react-native-letote-picker-4.6.0.tgz",
+  "_shasum": "d71d4622310818223c2fedd4969ea4f1cf878b59",
+  "_spec": "react-native-letote-picker@4.6.0",
   "_where": "/Users/lavin/Documents/lt/app",
   "author": {
     "name": "zooble"
@@ -33,6 +29,8 @@
   "bugs": {
     "url": "https://github.com/beefe/react-native-picker/issues"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "A Native Picker with high performance.",
   "homepage": "https://github.com/beefe/react-native-picker",
   "license": "MIT",
@@ -46,5 +44,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "types": "index.d.ts",
-  "version": "4.5.0"
+  "version": "4.6.0"
 }
